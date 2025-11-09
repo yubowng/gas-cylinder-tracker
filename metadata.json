@@ -1,0 +1,7 @@
+{
+  "name": "Gas Cylinder Tracker",
+  "description": "An application to track the mass or pressure of gas cylinders. Add cylinder types, generate unique IDs and QR codes for new cylinders, and scan them to update their values.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
